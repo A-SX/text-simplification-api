@@ -1,7 +1,5 @@
 # Text Simplification API (v3.0)
 
-![Text Simplification API Banner](https://via.placeholder.com/1200x400?text=Text+Simplification+API)
-
 ## 🚀 Overview
 
 The **Text Simplification API** is a powerful, AI-driven solution designed to transform complex, dense, or jargon-filled text into clear, concise, and easily understandable content. Leveraging the advanced capabilities of **Google Gemini 2.5 Flash**, this API is ideal for enhancing accessibility, improving user experience, and streamlining communication across various domains.
