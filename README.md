@@ -120,15 +120,14 @@ result = response.json()
 - 📊 Model and Metrics Included
 - 🌐 Multilingual Output (70+ Languages)
 
-## 💰 Business Model
+## 💰  Prices
 
-| Plan   | Price | Requests/hour | Goal               |
-|--------|-------|----------------|--------------------|
-| Basic  | $0    | 1,000          | User acquisition   |
-| Pro    | $25   | 10,000         | $1,000/month       |
-| Ultra  | $75   | 50,000         | $1,125/month       |
-| Mega   | $200  | 200,000        | $1,000/month       |
-
+| Plan   | Price | Requests/hour  |
+|--------|-------|----------------|
+| Basic  | $0    | 1,000          | 
+| Pro    | $25   | 10,000         | 
+| Ultra  | $75   | 50,000         | 
+| Mega   | $200  | 200,000        | 
 ## 🧱 Built With
 
 - Flask (Backend)
